@@ -1,6 +1,4 @@
-# sportbook
-
-> Sportsbook Demo
+# Sportsbook
 
 ## Build Setup
 
