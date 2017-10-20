@@ -6,6 +6,7 @@ import router from './router'
 
 Vue.config.productionTip = false
 
+require('es6-promise').polyfill()
 
 import jQuery from 'jquery'
 global.jQuery = jQuery
